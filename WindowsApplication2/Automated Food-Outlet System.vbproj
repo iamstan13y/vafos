@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76BEEAC1-C6DE-4CA7-A042-2B2EE38FBD49}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Vegatronix.My.MyApplication</StartupObject>
+    <RootNamespace>Vegatronix</RootNamespace>
+    <AssemblyName>Fast Food-Outlet System</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Fast Food-Outlet System</ProductName>
+    <PublisherName>Keith P Charedzera</PublisherName>
+    <SuiteName>Vegatronix Fast Food-Outlet System</SuiteName>
+    <ApplicationRevision>47</ApplicationRevision>
+    <ApplicationVersion>1.05.09.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Fast Food-Outlet System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Fast Food-Outlet System.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>vegatronix.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.10.6.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 6.10.6\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Amount.Designer.vb">
+      <DependentUpon>Amount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Amount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Flavours.Designer.vb">
+      <DependentUpon>Flavours.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Flavours.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food-Outlet System.Designer.vb">
+      <DependentUpon>Food-Outlet System.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Food-Outlet System.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admins Desk.Designer.vb">
+      <DependentUpon>Admins Desk.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Admins Desk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Account.Designer.vb">
+      <DependentUpon>New Account.vb</DependentUpon>
+    </Compile>
+    <Compile Include="New Account.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Food Items.Designer.vb">
+      <DependentUpon>Food Items.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Food Items.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Drinks.Designer.vb">
+      <DependentUpon>Drinks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Drinks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desserts.Designer.vb">
+      <DependentUpon>Desserts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desserts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlavoursDB.Designer.vb">
+      <DependentUpon>FlavoursDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FlavoursDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Receipt.Designer.vb">
+      <DependentUpon>Receipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.vb">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splashscreen.Designer.vb">
+      <DependentUpon>Splashscreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Splashscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Amount.resx">
+      <DependentUpon>Amount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Flavours.resx">
+      <DependentUpon>Flavours.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food-Outlet System.resx">
+      <DependentUpon>Food-Outlet System.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admins Desk.resx">
+      <DependentUpon>Admins Desk.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Account.resx">
+      <DependentUpon>New Account.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Food Items.resx">
+      <DependentUpon>Food Items.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Drinks.resx">
+      <DependentUpon>Drinks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desserts.resx">
+      <DependentUpon>Desserts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlavoursDB.resx">
+      <DependentUpon>FlavoursDB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splashscreen.resx">
+      <DependentUpon>Splashscreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09d49c84d3ddd5e819b76141599dff50.jpg" />
+    <None Include="Resources\Untitled3.gif" />
+    <None Include="Resources\cheese-and-artichoke-pizza-with-slicer_4460x4460.jpg" />
+    <None Include="Resources\K THOZZY.png" />
+    <None Include="Resources\poynter.png" />
+    <None Include="Resources\paye.png" />
+    <None Include="Resources\orders.png" />
+    <None Include="Resources\dz.png" />
+    <None Include="Resources\drinkee.png" />
+    <None Include="Resources\menuu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="vegatronix.ico" />
+    <None Include="Resources\load1.gif" />
+    <None Include="Resources\loady.gif" />
+    <None Include="Resources\load.gif" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\Screenshot %2825%291.png" />
+    <None Include="Resources\Screenshot %2825%29.png" />
+    <None Include="Resources\014.ico" />
+    <None Include="Resources\xyx.png" />
+    <None Include="Resources\Screenshot %2821%29.png" />
+    <None Include="Resources\user.ico" />
+    <None Include="Resources\Picture4.png" />
+    <None Include="Resources\Picture3.png" />
+    <None Include="Resources\QWERTY.gif" />
+    <None Include="Resources\Untitled2.gif" />
+    <None Include="Resources\CONT.png" />
+    <None Include="Resources\Picture1.png" />
+    <None Include="Resources\Screenshot %2823%291.png" />
+    <None Include="Resources\Screenshot %2823%29.png" />
+    <None Include="Resources\Set Program Access.ico" />
+    <None Include="Resources\Friend-Blaster1.png" />
+    <None Include="Resources\Screenshot %2822%29.png" />
+    <None Include="Resources\drinky.png" />
+    <None Include="Resources\menuu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

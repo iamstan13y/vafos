@@ -1,0 +1,47 @@
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe.config
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\FOS-Project Database.mdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Fast Food-Outlet System.pdb
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Amount.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Flavours.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmLogin.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.frmFoodOutlet.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmAdminsDesk.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Settings.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmNewAccount.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmFoodItems.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmDrinks.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmDesserts.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.FrmFlavoursDB.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Resources.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Receipt.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Registration.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Vegatronix.Splashscreen.resources
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Documents\Visual Studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe.config
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.pdb
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Amount.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Flavours.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmLogin.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.frmFoodOutlet.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmAdminsDesk.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Settings.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmNewAccount.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmFoodItems.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmDrinks.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmDesserts.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.FrmFlavoursDB.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Resources.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Receipt.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Registration.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Vegatronix.Splashscreen.resources
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb

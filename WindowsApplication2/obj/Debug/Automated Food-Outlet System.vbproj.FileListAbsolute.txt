@@ -1,0 +1,12 @@
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe.config
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Desktop\PROJECT\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
+C:\Users\Stanlry Brikkz\Documents\PROJ\PROJ\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe.config
+C:\Users\Stanlry Brikkz\Documents\PROJ\PROJ\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Documents\PROJ\PROJ\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Documents\PROJ\PROJ\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
+C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\bin\Debug\Fast Food-Outlet System.exe.config
+C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
