@@ -10,3 +10,25 @@ C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIEN
 C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
 C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
 C:\Users\Stanlry Brikkz\Documents\CHAREDZERA KEITH PANASHE (5169)\COMPUTER SCIENCE PROJECT (6023-4)\Vegatronix Automated Food-Outlet System\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Automated Food-Outlet System.vbproj.AssemblyReference.cache
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Automated Food-Outlet System.vbproj.SuggestedBindingRedirects.cache
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Amount.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Flavours.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmLogin.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.frmFoodOutlet.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmAdminsDesk.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Settings.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmNewAccount.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmFoodItems.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmDrinks.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmDesserts.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.FrmFlavoursDB.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Resources.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Receipt.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Registration.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Vegatronix.Splashscreen.resources
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Automated Food-Outlet System.vbproj.GenerateResource.cache
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Automated Food-Outlet System.vbproj.CoreCompileInputs.cache
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Fast Food-Outlet System.exe
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Fast Food-Outlet System.xml
+C:\Users\KCHAREDZERA\Documents\GitHub\vafos\WindowsApplication2\obj\Debug\Fast Food-Outlet System.pdb
